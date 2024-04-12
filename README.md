@@ -1,20 +1,16 @@
 # SFC-lab
-# Microsoft-Entra-ID-Lab
-Microsoft Entra ID Lab
-# Attack-Simulation-# Microsoft-Defender-Labs
 
 
 <h2>Description</h2>
-Microsoft Entra ID Protection assists organizations in detecting, examining, and addressing identity-related vulnerabilities. These risks can be integrated into tools such as Conditional Access for access control decisions, or shared with security information and event management (SIEM) tools for deeper analysis and correlation.
+The System File Checker (SFC) in Windows scans and repairs corrupted system files, ensuring system stability, improving performance, and preventing crashes or errors, ultimately enhancing the overall reliability of the operating system.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
-
-Microsoft Entra ID
+Windows SFC 
 <h2>Environments Used </h2>
 
-- <b>MacOS Big Sur </b> 
+<b> Windows 10 </b> 
 
 <h2>Program walk-through:</h2>
 
