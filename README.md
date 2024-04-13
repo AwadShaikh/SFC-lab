@@ -16,23 +16,23 @@ Windows SFC
 
 <p align="center">
 Starting windows 10 in diagnostic mode : <br/>
-<img src="https://imgur.com/zBwfHrW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/zBwfHrW.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Selecting advance troubleshooting mode:  <br/>
-<img src="https://imgur.com/Hcix3sc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Hcix3sc.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Scanning and reparing corrupted files and saving scanned logs in a file named sfclog.txt on e drive : <br/>
-<img src="https://imgur.com/1b9Uqu4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1b9Uqu4.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 SFC scan and repair completed  <br/>
-<img src="https://imgur.com/1F2nbFg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1F2nbFg.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Checking the log file that was saved :  <br/>
-<img src="https://imgur.com/ykIuSxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ykIuSxp.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
